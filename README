@@ -1,0 +1,12 @@
+sfMondongoPlugin
+================
+
+Installation
+------------
+
+    ./symfony plugin:install sfMondongoPlugin
+
+Documentation
+-------------
+
+[http://mondongo.es/documentation/0.9/sf-mondongo-plugin/en](http://mondongo.es/documentation/0.9/sf-mondongo-plugin/en)
